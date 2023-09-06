@@ -1,4 +1,4 @@
-IMDB Movies Analysis
+# IMDB Movies Analysis
 
 **Project Description:**
 The project aimed to analyse factors influencing the success of movies on IMDB. Success was defined by high IMDB ratings. The objective was to provide insights for stakeholders in the movie industry to make informed decisions for future projects. The project covered genres, movie durations, languages, directors, and budgets as potential factors affecting movie ratings.
